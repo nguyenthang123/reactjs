@@ -1,0 +1,28 @@
+[
+     {
+          "id":1,
+          "name":"Nguyen ngoc Thang",
+          "phone": "098978896",
+          "permision": 1
+     },
+
+     {
+        "id":2,
+        "name":"Nguyen minh ngoc",
+        "phone": "098978896",
+        "permision": 2
+    },
+   
+    {
+        "id":3,
+        "name":"Huynh thi minh ",
+        "phone": "09898998",
+        "permision": 3
+    },
+    {
+        "id":4,
+        "name":"Nguyen phuong Lan ",
+        "phone": "09898998",
+        "permision": 4
+    }
+]
